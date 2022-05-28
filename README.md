@@ -1,8 +1,10 @@
 # Face-detection
-Face detection &amp;&amp; Basic image processing using C++ OPENCV Library
+--------    Basic image processing && Face detecting using OPENCV Librarey  ----------
+--------                         Abdullah A. Mohammed                       ----------
+--------                https://github.com/abdullah-4Mohammed               ----------
+--------      https://www.linkedin.com/in/abdullah-a-mohammed-94114388/     ----------
 
-Basic image processing && Face detecting using OPENCV Library
- Abdullah A. Mohammed
+
 This file include explanations ofFace detection &amp;&amp; Basic image processing using C++ OPENCV Library
  - program code.
 I will try to explain the uncleared points in the code. I have started the
